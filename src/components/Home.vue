@@ -1,6 +1,6 @@
 <template>
   <div class="container-home">
-    <img class="img-logo" :src="require('@/assets/mercy-logo-f.png')" alt="Background Image"/>
+    <img class="img-logo" :src="require('@/assets/Moji.png')" alt="Background Image"/>
     <div>    
       <span class="text1">เว็บตรงแท้ อันดับ 1</span>
       <br><b class="text2">✨การันตีผู้ใช้งานจริงนับล้านยูสเซอร์ ลูกค้าใหม่ เพิ่มอัตราการชนะ ทันที !!</b>
@@ -156,30 +156,30 @@ export default {
         { src: 'photo_6228624588875613745_y.jpg', alt: 'Image 2' },      
       ],
       topUsersData : [
-      { userName: "rosaa01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "rosab89xx", amount: "130,500", timestamp: "31 ส.ค. 2568" },
-      { userName: "rosae11xx", amount: "95,200", timestamp: "31 ส.ค. 2568" },
-      { userName: "rosad04xx", amount: "83,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "rosae87xx", amount: "82,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "rosae35xx", amount: "78,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "mojia01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "mojib89xx", amount: "130,500", timestamp: "31 ส.ค. 2568" },
+      { userName: "mojie11xx", amount: "95,200", timestamp: "31 ส.ค. 2568" },
+      { userName: "mojid04xx", amount: "83,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "mojie87xx", amount: "82,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "mojie35xx", amount: "78,000", timestamp: "31 ส.ค. 2568" },
     ],
     reviews : [
-      { user: "rosaj23xx", text: "เว็บนี้ใช้งานง่าย ถอนเงินไวมาก", img: "photo-2568-06-02-13-24-49.jpg" },
-      { user: "rosas16xx", text: "แตกหนักจนแฟนงง ว่าไปเอาเงินมาจากไหน", img: "photo-2568-06-21-13-38-31.jpg" },
-      { user: "rosae56xx", text: "ระบบดี ไม่มีสะดุดเลย", img: "photo-2568-06-02-13-11-47.jpg" },
-      { user: "rosax88xx", text: "โปรโมชั่นคุ้มสุด ๆ เลยครับ", img: "503804955-122126012606831043-7044484449309087338-n.jpg" },
-      { user: "rosao16xx", text: "เล่นง่าย ได้เงินจริง", img: "490506081-122124348278773654-1591748651281217225-n.jpg" },
-      { user: "rosad41xx", text: "แตกจริง! ไม่ต้องลุ้นเลย เงินเข้าไวสุด ๆ 💸", img: "533961598_1465905681078900_8473607776528464666_n.jpg" },
-      { user: "rosad41xx", text: "จากหลักร้อยเป็นหลักหมื่นในคืนเดียว ว้าว!", img: "464195162_2477566235772141_6809220135929060331_n.jpg" },
-      { user: "rosab71xx", text: "รองรับ TrueWallet ด้วย สะดวกมาก", img: "504143319_2219977065123389_83092695142278008_n.jpg" },
-      { user: "rosat94xx", text: "แนะนำเพื่อน ได้โบนัสด้วย", img: "492242625_668943662417215_4482917277835435921_n.jpg" },
-      { user: "rosal68xx", text: "ดีตรงที่มีภาษาไทยครบถ้วน", img: "518366934_736143816025493_1299983234092703859_n.jpg" },
-      { user: "rosat28xx", text: "ฝากปุ๊บเงินเข้าปั๊บ", img: "533084719_1116500603710911_5818853113959217185_n.jpg" },
-      { user: "rosao71xx", text: "แทบจะถอนทุกวัน ดีจริงๆเว็บนี้!", img: "277169807-3163265690584017-8353788208641286173-n.jpg" },
-      { user: "rosaj88xx", text: "ชอบมีไลฟ์สดบอลให้ดูฟรี", img: "432694438-933306371801755-6605376483802637949-n.jpg" },
-      { user: "rosaq38xx", text: "ทีมซัพพอร์ตดูแลดีมาก", img: "444482004_7798764536813604_3664008989486408448_n.md.jpg" },
-      { user: "rosaz65xx", text: "อัตราต่อรองแฟร์สุด ๆ", img: "499992981-543532548818863-8863283426458467040-n.jpg" },
-      { user: "rosaf86xx", text: "ถอนวันละพันทุกวัน แทบไม่ต้องทำงาน", img: "503202164-2075152429640793-785701917046162087-n.jpg" },
+      { user: "mojij23xx", text: "เว็บนี้ใช้งานง่าย ถอนเงินไวมาก", img: "photo-2568-06-02-13-24-49.jpg" },
+      { user: "mojis16xx", text: "แตกหนักจนแฟนงง ว่าไปเอาเงินมาจากไหน", img: "photo-2568-06-21-13-38-31.jpg" },
+      { user: "mojie56xx", text: "ระบบดี ไม่มีสะดุดเลย", img: "photo-2568-06-02-13-11-47.jpg" },
+      { user: "mojix88xx", text: "โปรโมชั่นคุ้มสุด ๆ เลยครับ", img: "503804955-122126012606831043-7044484449309087338-n.jpg" },
+      { user: "mojio16xx", text: "เล่นง่าย ได้เงินจริง", img: "490506081-122124348278773654-1591748651281217225-n.jpg" },
+      { user: "mojid41xx", text: "แตกจริง! ไม่ต้องลุ้นเลย เงินเข้าไวสุด ๆ 💸", img: "533961598_1465905681078900_8473607776528464666_n.jpg" },
+      { user: "mojid41xx", text: "จากหลักร้อยเป็นหลักหมื่นในคืนเดียว ว้าว!", img: "464195162_2477566235772141_6809220135929060331_n.jpg" },
+      { user: "mojib71xx", text: "รองรับ TrueWallet ด้วย สะดวกมาก", img: "504143319_2219977065123389_83092695142278008_n.jpg" },
+      { user: "mojit94xx", text: "แนะนำเพื่อน ได้โบนัสด้วย", img: "492242625_668943662417215_4482917277835435921_n.jpg" },
+      { user: "mojil68xx", text: "ดีตรงที่มีภาษาไทยครบถ้วน", img: "518366934_736143816025493_1299983234092703859_n.jpg" },
+      { user: "mojit28xx", text: "ฝากปุ๊บเงินเข้าปั๊บ", img: "533084719_1116500603710911_5818853113959217185_n.jpg" },
+      { user: "mojio71xx", text: "แทบจะถอนทุกวัน ดีจริงๆเว็บนี้!", img: "277169807-3163265690584017-8353788208641286173-n.jpg" },
+      { user: "mojij88xx", text: "ชอบมีไลฟ์สดบอลให้ดูฟรี", img: "432694438-933306371801755-6605376483802637949-n.jpg" },
+      { user: "mojiq38xx", text: "ทีมซัพพอร์ตดูแลดีมาก", img: "444482004_7798764536813604_3664008989486408448_n.md.jpg" },
+      { user: "mojiz65xx", text: "อัตราต่อรองแฟร์สุด ๆ", img: "499992981-543532548818863-8863283426458467040-n.jpg" },
+      { user: "mojif86xx", text: "ถอนวันละพันทุกวัน แทบไม่ต้องทำงาน", img: "503202164-2075152429640793-785701917046162087-n.jpg" },
     ],
     rwindex:0
     };
@@ -336,7 +336,7 @@ export default {
       const randomBankIndex = Math.floor(Math.random() * bankLogos.length);
       const randomDigits = Math.floor(Math.random() * 100).toString().padStart(2, '0');
       const randomChar = String.fromCharCode(Math.floor(Math.random() * 26) + 97);
-      const user = `rosa${randomChar}${randomDigits}xx`;
+      const user = `moji${randomChar}${randomDigits}xx`;
 
       const now = new Date();
 
@@ -640,7 +640,12 @@ body {
 /* สไตล์สำหรับรูป */
 .img-logo {
   max-width: 70%;
-  filter: drop-shadow(0 0 10px rgba(255, 215, 0, 1));
+}
+
+ @media (min-width: 500px) {
+  .img-logo{
+    width: 25%;
+  }
 }
 
 /* ข้อความที่กระพริบ */
